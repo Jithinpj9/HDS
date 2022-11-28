@@ -6,7 +6,7 @@
 
 ```
 sudo su
-cd /tmp/ && wget https://github.com/sharathc213/HoneyDs/blob/main/deploy_server.sh && bash deploy_server.sh
+cd /tmp/ && wget https://github.com/Jithinpj9/HDS/blob/main/deploy_server.sh && bash deploy_server.sh
 
 ```
 
@@ -15,7 +15,7 @@ cd /tmp/ && wget https://github.com/sharathc213/HoneyDs/blob/main/deploy_server.
 ```
 
 sudo su
-cd /tmp/ && wget https://github.com/sharathc213/HoneyDs/blob/main/deploy_sensor.sh && bash deploy_sensor.sh
+cd /tmp/ && wget https://github.com/Jithinpj9/HDS/blob/main/deploy_sensor.sh && bash deploy_sensor.sh
 
 ```
 
